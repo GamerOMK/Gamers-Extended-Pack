@@ -1,0 +1,26 @@
+{
+  "id_map": {},
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "mod_pack_naidru_and_gamer",
+    "modName": "Mod Pack (Naidru and Gamer)",
+    "version": "1.0.0",
+    "author": "gabeh, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.modpacknaidruandgamer",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
